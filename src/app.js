@@ -38,6 +38,11 @@ const myLocations = [
     location: [52.507541, 13.39032],
     description: "The most famous wall in Berlin",
   },
+  {
+    name: "My house",
+    location: [52.4585041, 13.5384132],
+    description: "The least famous attraction in Berlin",
+  },
 ];
 
 myLocations.forEach((location) => {
